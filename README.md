@@ -1,3 +1,3 @@
-## Data science learning material
-* tensorflow
-* spark
+## Data science learning resources
+* Tensorflow
+* Spark
